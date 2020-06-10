@@ -1,8 +1,8 @@
 plugins:
   - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
+# relative_links:
+#   enabled: true
+#   collections: true
 include:
   - CONTRIBUTING.md
   - README.md
@@ -13,4 +13,8 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 
+title: Jin Xu
+description: Jin Xu's personal website.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
