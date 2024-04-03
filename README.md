@@ -7,6 +7,4 @@
 
 ## Mini-projects
 
-* Use mol2grid
-* Scrape pubchem
-* [JAX implementation of MinGPT]((https://github.com/imxj/imxj.github.io/blob/master/colabs/llms/jax_gpt_dev_gpt.ipynb)) 
+* [JAX implementation of MinGPT](https://github.com/imxj/imxj.github.io/blob/master/colabs/llms/jax_gpt_dev_gpt.ipynb)) 
