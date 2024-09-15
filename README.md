@@ -17,7 +17,7 @@
   - [Our publication in IEEE Transactions on Information Theory](https://ieeexplore.ieee.org/abstract/document/5238755) provided new insights into secure communication over broadcast channels by developing both inner and outer bounds for the rate equivocation region.
 
 
-## Codes
-
+## Tools
+* [Base64 Image Viewer](https://imxj.github.io/base64-viewer/)
 * [JAX implementation of MinGPT](https://github.com/imxj/imxj.github.io/blob/master/colabs/llms/jax_gpt_dev_gpt.ipynb)
 * [PubChem and Mols2Grid](https://github.com/imxj/imxj.github.io/tree/master/colabs/small_molecules)
