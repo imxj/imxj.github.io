@@ -1,5 +1,3 @@
-![Profile Image](assets/img/profile.jpg)
-
 # Summary
 
 *   I am a ML researcher at [Google Research](https://research.google/people/107672/).
