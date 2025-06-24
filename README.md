@@ -1,8 +1,6 @@
-# Summary
-
+## Summary
 *  I recently joined NVIDIA as a Distinguished Engineer, where I'm developing VLSI AI Agents that apply deep learning and large language models (LLMs) to accelerate hardware design.
 *  My research interests include deep learning and information theory, [Google Scholar](https://scholar.google.com/citations?hl=en&user=kGx-ZZ8AAAAJ&view_op=list_works&sortby=pubdate).
-
 * Past work experiences
   - I was a ML researcher at [Google Research](https://research.google/people/107672/).
     - Applying deep learning to drug discovery, see [Google AI blog: Unlocking the "Chemome" with DNA-Encoded Chemistry and Machine Learning](https://ai.googleblog.com/2020/06/unlocking-chemome-with-dna-encoded.html).
