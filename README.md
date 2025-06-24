@@ -1,9 +1,11 @@
 # Summary
 
-*   I am a ML researcher at [Google Research](https://research.google/people/107672/).
-*   My research interests include deep learning and information theory. 
-*   I recently focus on applying deep learning to drug discovery, see [Google AI blog: Unlocking the "Chemome" with DNA-Encoded Chemistry and Machine Learning](https://ai.googleblog.com/2020/06/unlocking-chemome-with-dna-encoded.html).
-*   [Google Scholar](https://scholar.google.com/citations?hl=en&user=kGx-ZZ8AAAAJ&view_op=list_works&sortby=pubdate).
+*  I recently joined NVIDIA as a Distinguished Engineer, where I'm developing VLSI AI Agents that apply deep learning and large language models (LLMs) to accelerate hardware design.
+*  My research interests include deep learning and information theory, [Google Scholar](https://scholar.google.com/citations?hl=en&user=kGx-ZZ8AAAAJ&view_op=list_works&sortby=pubdate).
+
+* Past work experiences
+  - I was a ML researcher at [Google Research](https://research.google/people/107672/).
+    - Applying deep learning to drug discovery, see [Google AI blog: Unlocking the "Chemome" with DNA-Encoded Chemistry and Machine Learning](https://ai.googleblog.com/2020/06/unlocking-chemome-with-dna-encoded.html).
 
 ## Education
 - Ph.D. in Electrical and Computer Engineering, Syracuse University, 2009
@@ -19,8 +21,10 @@
 
 
 ## Tools
-* [Small web tools](https://imxj.github.io/apps/)
-* [DIY Passport Photos](https://imxj.github.io/passport_photo)
-* [Online Molecule Editor Passport Photos](https://imxj.github.io/apps/online-molecule-editor/)
-* [JAX implementation of MinGPT](https://github.com/imxj/imxj.github.io/blob/master/colabs/llms/jax_gpt_dev_gpt.ipynb)
+* [JAX implementation of MiniGPT](https://github.com/imxj/imxj.github.io/blob/master/colabs/llms/jax_gpt_dev_gpt.ipynb)
 * [PubChem and Mols2Grid](https://github.com/imxj/imxj.github.io/tree/master/colabs/small_molecules)
+* [Small web tools](https://imxj.github.io/apps/)
+  * [Online Molecule Editor](https://imxj.github.io/apps/online-molecule-editor/)
+  * [Online base64 Viewer](https://imxj.github.io/apps/base64-viewer/)
+  * [DIY Passport Photos](https://imxj.github.io/passport_photo)
+  
