@@ -1,0 +1,126 @@
+---
+---
+
+@import "minima";
+
+// Global reset for all links to normal size
+body {
+  font-size: 16px;
+  
+  a {
+    font-size: inherit !important;
+    font-weight: normal !important;
+  }
+}
+
+// Fix homepage README list items - make them smaller
+.home {
+  .page-content {
+    ul {
+      li {
+        font-size: 14px !important;  // Smaller than body text
+        line-height: 1.5;
+        margin-bottom: 0.5rem;  // Less spacing
+        
+        a {
+          font-size: 14px !important;  // Match list item size
+          font-weight: normal !important;
+        }
+      }
+    }
+    
+    // First level lists specifically
+    > ul > li {
+      font-size: 14px !important;
+    }
+  }
+}
+
+// Fix blog post list
+.post-list {
+  list-style: none;
+  margin-left: 0;
+  
+  li {
+    font-size: 16px !important;
+    margin-bottom: 1rem;
+    
+    a {
+      font-size: 16px !important;
+      font-weight: normal !important;
+      color: #2a7ae4;
+      text-decoration: none;
+      
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+    
+    .post-meta {
+      font-size: 14px;
+      color: #828282;
+    }
+  }
+}
+
+// Ensure all list items are consistent (except homepage)
+.page-content {
+  ul, ol {
+    li {
+      font-size: 16px !important;
+      line-height: 1.6;
+    }
+  }
+}
+
+// Override for homepage to make everything smaller
+body.home {
+  .page-content {
+    font-size: 15px;  // Slightly smaller base
+    
+    h2 {
+      font-size: 1.3rem;  // Smaller headings
+      margin-top: 1.5rem;
+      margin-bottom: 0.8rem;
+    }
+    
+    ul {
+      margin-top: 0.5rem;
+      margin-bottom: 1rem;
+      
+      li {
+        font-size: 14px !important;
+        margin-bottom: 0.3rem;
+      }
+    }
+  }
+}
+
+// Specifically target Minima's homepage posts section
+.home {
+  h2.post-list-heading {
+    font-size: 1.2rem !important;  // Make "Posts" heading smaller
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .post-list {
+    li {
+      margin-bottom: 1.5rem;  // Less space between posts
+      
+      h3 {
+        font-size: 1.1rem !important;  // Smaller post titles
+        margin-bottom: 0.2rem;
+        
+        a {
+          font-size: 1.1rem !important;
+          font-weight: normal !important;
+        }
+      }
+      
+      .post-meta {
+        font-size: 0.8rem !important;  // Smaller dates
+      }
+    }
+  }
+} 
