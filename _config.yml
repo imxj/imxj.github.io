@@ -17,5 +17,26 @@ title: Jin Xu
 description: Jin Xu's personal website.
 # show_downloads: true
 # google_analytics:
-theme: jekyll-theme-minimal
+theme: minima
 profile_image: /assets/img/profile.jpg
+
+# Blog settings
+permalink: /blog/:year/:month/:day/:title/
+
+# Minima settings
+minima:
+  skin: auto # "auto", "dark", "light", "solarized", "solarized-dark"
+  social_links:
+    - { platform: github, user_url: "https://github.com/imxj" }
+    # - { platform: twitter, user_url: "https://twitter.com/yourusername" }
+
+header_pages:
+  - blog.md
+
+# Footer settings
+author:
+  name: Jin Xu
+  email: # Optional - remove or add your email
+
+# Hide the footer description
+show_description: false
