@@ -2,8 +2,7 @@
 *  My research interests include deep learning and information theory, [Google Scholar](https://scholar.google.com/citations?hl=en&user=kGx-ZZ8AAAAJ&view_op=list_works&sortby=pubdate).
 *  [Visit my blog](/blog/) for thoughts on various topics.
 * Past work experiences
-  - I was a ML researcher at [Google Research](https://research.google/people/107672/).
-    - Applying deep learning to drug discovery, see [Google AI blog: Unlocking the "Chemome" with DNA-Encoded Chemistry and Machine Learning](https://ai.googleblog.com/2020/06/unlocking-chemome-with-dna-encoded.html).
+  - I was a ML researcher at [Google Research](https://research.google/people/107672/), applying deep learning to drug discovery (see [Google AI blog: Unlocking the "Chemome" with DNA-Encoded Chemistry and Machine Learning](https://ai.googleblog.com/2020/06/unlocking-chemome-with-dna-encoded.html)).
 
 ### Education
 - Ph.D. in Electrical and Computer Engineering, Syracuse University, 2009
