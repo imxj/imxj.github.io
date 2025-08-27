@@ -11,6 +11,7 @@
 ### Selected Research Projects
 - Developing General AI Agents with Gemini Multimodality
   - Leveraged [Langfun](https://github.com/google/langfun) and Gemini's multimodal capabilities to build a general-purpose AI agent, achieving SOTA performance on the [GAIA benchmark](https://huggingface.co/spaces/gaia-benchmark/leaderboard) in December 2024. This project demonstrated the effectiveness of Langfun + Gemini for complex reasoning and task completion across diverse domains.
+  - Adapted the general-purpose AI agent idea to create a specialized vision-only AI agent for automated proofreading of large-scale 3D neuron reconstructions in mouse brain microscopy datasets on [neuroglancer](https://github.com/google/neuroglancer/).
 
 - Applying Deep Learning to Drug Discovery
   - [Our publication in the Journal of Medicinal Chemistry](https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.3c01471), for the first time, discovered a novel small molecule ligand for WDR91 by using affinity-mediated DNA-encoded chemical library selection followed by deep learning. WDR's unique β-propeller structure makes them attractive targets, but most human WDRs are unexplored compared to other major drug target families. The discovery of a drug-like small molecule and its covalent analog compounds will soon enable researchers to identify a WDR91 drug candidate.
