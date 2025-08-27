@@ -1,6 +1,5 @@
 *  I recently joined NVIDIA as a Distinguished Engineer, where I'm developing VLSI AI Agents that leverage large language models (LLMs) to accelerate hardware design.
 *  My research interests include deep learning and information theory, [Google Scholar](https://scholar.google.com/citations?hl=en&user=kGx-ZZ8AAAAJ&view_op=list_works&sortby=pubdate).
-*  [Visit my blog](/blog/) for thoughts on various topics.
 * Past work experiences
   - I was a ML researcher at [Google Research](https://research.google/people/107672/) ([see selected research projects](#selected-research-projects) below)
 
