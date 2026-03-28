@@ -23,9 +23,6 @@
 ### Tools
 * [JAX implementation of MiniGPT](https://github.com/imxj/imxj.github.io/blob/master/colabs/llms/jax_gpt_dev_gpt.ipynb)
 * [PubChem and Mols2Grid](https://github.com/imxj/imxj.github.io/tree/master/colabs/small_molecules)
-* [Small web tools](https://imxj.github.io/apps/)
-  * [Online Molecule Editor](https://imxj.github.io/apps/online-molecule-editor/)
-  * [Online base64 Viewer](https://imxj.github.io/apps/base64-viewer/)
   
 ### Tech Sharing
 * [Applying Deep Learning to Drug Discovery](https://docs.google.com/presentation/d/1n_5n8Jpx89KNqzoBbrrSWKc6efYKUTfR4lbp9xolPkU/edit?usp=share_link)
