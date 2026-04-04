@@ -3,11 +3,6 @@
 * Past work experiences
   - I was a ML researcher at [Google Research](https://research.google/people/107672/) ([see selected research projects](#selected-research-projects) below)
 
-### Education
-- Ph.D. in Electrical and Computer Engineering, Syracuse University, 2009
-- M.S. in Computer Science, Chinese Academy of Science, Institute of Automation, 2005
-- B.S. in Electronic Engineering and Information Science, University of Science and Technology of China, 2002
-
 ### Selected Research Projects
 - Developing General AI Agents with Gemini Multimodality
   - Leveraged [Langfun](https://github.com/google/langfun) and Gemini's multimodal capabilities to build a general-purpose AI agent, achieving SOTA performance on the [GAIA benchmark](https://huggingface.co/spaces/gaia-benchmark/leaderboard) in December 2024. This project demonstrated the effectiveness of Langfun + Gemini for complex reasoning and task completion across diverse domains.
@@ -19,6 +14,11 @@
 - Studying secure communication from information theoretic perspective
   - [Our publication in IEEE Transactions on Information Theory](https://ieeexplore.ieee.org/abstract/document/5238755) provided new insights into secure communication over broadcast channels by developing both inner and outer bounds for the rate equivocation region.
   - [Ph.D. Dissertation](https://github.com/imxj/imxj.github.io/blob/master/Jin%20Xu's%20dissertation.pdf)
+
+### Education
+- Ph.D. in Electrical and Computer Engineering, Syracuse University, 2009
+- M.S. in Computer Science, Chinese Academy of Science, Institute of Automation, 2005
+- B.S. in Electronic Engineering and Information Science, University of Science and Technology of China, 2002
 
 ### Tools
 * [JAX implementation of MiniGPT](https://github.com/imxj/imxj.github.io/blob/master/colabs/llms/jax_gpt_dev_gpt.ipynb)
