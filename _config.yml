@@ -31,7 +31,6 @@ minima:
     # - { platform: twitter, user_url: "https://twitter.com/yourusername" }
 
 header_pages:
-  - publications.md
   - blog.md
 
 # Footer settings
