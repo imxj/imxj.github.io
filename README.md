@@ -5,7 +5,7 @@
 
 ### Recent News
 - May 2026: I was glad to hear that the SGC team and collaborators extended our earlier WDR91 work using FEP and machine learning to achieve even stronger potency, culminating in [*An Integrated Workflow Comprising AI, Physics and Experiment: Discovery of Nanomolar-Potent Inhibitors*](https://doi.org/10.26434/chemrxiv.15002535/v2).
-- April 2026: [Nemotron Nano 3 Omni](https://arxiv.org/abs/2604.24954), a multimodal speech-language model that I contributed to, was released.
+- April 2026: [*Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence*](https://arxiv.org/abs/2604.24954), which I contributed to, was released.
 
 ### Selected Research Projects
 - Developing General AI Agents with Gemini Multimodality
