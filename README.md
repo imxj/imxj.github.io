@@ -4,7 +4,7 @@
   - I was a ML researcher at [Google Research](https://research.google/people/107672/) ([see selected research projects](#selected-research-projects) below)
 
 ### Recent News
-- May 2026: Researchers extended our earlier WDR91 work using FEP and machine learning to achieve even stronger potency, representing a further step toward a WDR91 drug candidate, in [*An Integrated Workflow Comprising AI, Physics and Experiment: Discovery of Nanomolar-Potent Inhibitors*](https://doi.org/10.26434/chemrxiv.15002535/v2).
+- May 2026: Researchers extended our earlier WDR91 work using FEP and machine learning to achieve stronger potency, a further step toward a WDR91 drug candidate, in [*An Integrated Workflow Comprising AI, Physics and Experiment: Discovery of Nanomolar-Potent Inhibitors*](https://doi.org/10.26434/chemrxiv.15002535/v2).
 - April 2026: [*Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence*](https://arxiv.org/abs/2604.24954), a multimodal model I contributed to, was released.
 
 ### Selected Research Projects
