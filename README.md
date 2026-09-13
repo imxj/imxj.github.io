@@ -2,8 +2,8 @@
 *  My research interests include deep learning and information theory, [Google Scholar](https://scholar.google.com/citations?hl=en&user=kGx-ZZ8AAAAJ&view_op=list_works&sortby=pubdate).
 * Past work experiences
   - I was a ML researcher at [Google Research](https://research.google/people/107672/) ([see selected research projects](#selected-research-projects) below)
-  - Passionate about applying AI to scientific domains such as drug discovery and neuroscience — I see this as a meaningful cause worth dedicating effort to.
-  - Increasingly excited about LLM computer-use capabilities. It may not be the most efficient path for every agent task, but it feels genuinely humanoid — a universal way for AI to interact with the digital world, and I believe it will be important.
+  - Passionate about applying AI to scientific domains like drug discovery and neuroscience.
+  - Excited about LLM computer-use — not always the most efficient path, but a humanoid, universal way for AI to interact with the digital world.
 
 ### Recent News
 - May 2026: Researchers extended our earlier WDR91 work using FEP and machine learning to achieve stronger potency, a further step toward a WDR91 drug candidate, in [*An Integrated Workflow Comprising AI, Physics and Experiment: Discovery of Nanomolar-Potent Inhibitors*](https://doi.org/10.26434/chemrxiv.15002535/v2).
